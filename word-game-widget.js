@@ -18,7 +18,7 @@ document.addEventListener('alpine:init', () => {
                     this.longWord = '',
                     this.shortWord = '',
                     this.sumOfLetters = ''
-                   }, 3000);
+                   }, 10000);
             }
         }
     });
